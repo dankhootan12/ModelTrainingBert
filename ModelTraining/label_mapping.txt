@@ -1,0 +1,11 @@
+0: Business & Economy
+1: Crime
+2: Education
+3: Entertainment & Style
+4: Environment
+5: Health and Family
+6: People and Living
+7: Science & Technology
+8: Sports
+9: Travel and Culture
+10: World & Politics
